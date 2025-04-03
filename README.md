@@ -1,2 +1,7 @@
 # dotfiles-local
-Sample repo for localized dotfiles
+
+Sample repo for local customization.
+
+```
+git submodule update --init
+```
